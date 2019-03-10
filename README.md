@@ -21,4 +21,4 @@ Primes in C
 
 
 `isprime` is an `int` as no Boolean in C
-
+`i/2` could be replaced by `sqrt(i)` but needs `#include <math.h>`
