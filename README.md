@@ -26,3 +26,4 @@ Primes in C
 * needs `#include <math.h>` \
 * `i,j` as `double` \
 * `i%j` becomes `fmod(i,j)` \
+* `printf("%i \n",(int)i);`
