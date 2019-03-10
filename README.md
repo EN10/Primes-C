@@ -18,3 +18,7 @@ Primes in C
 	    isprime = 1;
 	    }
 	}
+
+
+`isprime` is an `int` as no Boolean in C
+
