@@ -22,7 +22,7 @@ Primes in C
 
 `isprime` is an `int` as no Boolean in C \
  \
-`i/2` could be replaced by `sqrt(i)` but \
-needs `#include <math.h>` \
-`i,j` as `double` \
-`i%j` becomes `fmod(i,j)` \
+`i/2` could be replaced by `sqrt(i)` but: \
+* needs `#include <math.h>` \
+* `i,j` as `double` \
+* `i%j` becomes `fmod(i,j)` \
