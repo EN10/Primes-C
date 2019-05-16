@@ -27,3 +27,9 @@ Primes in C
 * `i,j` as `double` \
 * `i%j` becomes `fmod(i,j)` \
 * `"%i \n",i` becomes `"%i \n",(int)i`
+
+### Benchmark:
+
+	time python primes.py
+	
+	time ./a.out
